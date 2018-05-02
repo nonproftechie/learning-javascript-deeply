@@ -1,2 +1,4 @@
 # learning-javascript-deeply
-As I am learning Javascript deeply, I am saving my homework to this repo
+"Learn JavaScript deeply" - Matt
+
+Saving my homework solutions to this repo as I take Matt's advice whilst leveling up my WordPress expertise
